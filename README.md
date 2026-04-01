@@ -63,7 +63,7 @@ Explored phishing through a case study and developed awareness resources, includ
 ## ✨ Additional Work
 
 - Phishing Awareness Visual Novel  
-  (See `/task-5-cybercrime/visual-novel.md`)
+  (See `task-5-cybercrime/phishing-awareness-game.md` )
 
 ---
 
